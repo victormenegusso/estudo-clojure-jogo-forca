@@ -117,6 +117,11 @@ Em programação funcional existe um conceito que chamamos de recursão de cauda
                     (recur (dec vidas) palavra acertos))))))
 ```
 
+### Links
+
+https://programming-pages.com/2012/01/23/loops-in-clojure/
+
+
 ## License
 
 Copyright © 2017
